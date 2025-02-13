@@ -11,7 +11,7 @@
 - Me encanta explorar nuevas herramientas y tecnologías, especialmente en el campo de las aplicaciones móviles y el desarrollo web.
 - Actualmente aprendiendo **desarrollo web** y mejorando mis habilidades en **Android** y **multiplataforma**.
 - Siempre buscando oportunidades para crecer como desarrollador y colaborar en proyectos interesantes.
-- **[Mi portafolio personal](https://obsidianstarlisght.com)**.
+- **[Mi portafolio personal](https://obsidianstarlight.com)**.
 - Abierto a oportunidades de prácticas o nuevos proyectos. **[Mi CV aquí](https://)**
 
 <br><br>
