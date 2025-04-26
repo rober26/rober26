@@ -12,7 +12,7 @@
 - Actualmente aprendiendo **desarrollo web** y mejorando mis habilidades en **Android** y **multiplataforma**.
 - Siempre buscando oportunidades para crecer como desarrollador y colaborar en proyectos interesantes.
 - **[Mi portafolio personal](https://obsidianstarlight.com)**.
-- Abierto a oportunidades de prácticas o nuevos proyectos. **[Mi CV aquí](https://obsidianstarlight.com/RobertoLespeCV.pdf)**
+- Abierto a oportunidades de prácticas o nuevos proyectos. **[Mi CV aquí](https://obsidianstarlight.com/Assets/RobertoLespeCV.pdf)**
 
 <br><br>
 
